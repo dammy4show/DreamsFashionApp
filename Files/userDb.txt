@@ -1,0 +1,2 @@
+1	funke	1234	08900	funke@gmail.com	abk	0	Customer	False
+1	dammy	1234	08900	dammy@gmail.com	abk	0	Admin	False
