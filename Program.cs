@@ -13,8 +13,9 @@ namespace DreamsFashionApp
         {
             MainMenu mainMenu = new MainMenu();
             mainMenu.Menu();
+            System.Console.WriteLine($"", "seeee");
 
-            
+
             // Dictionary<string, int> cart = new Dictionary<string, int>
             // {
             //     {"ankarsa", 3},
@@ -25,7 +26,7 @@ namespace DreamsFashionApp
             // UserManager userManager = new UserManager();
             // userManager.ReadUserToFile();
 
-           
+
         }
     }
 }
